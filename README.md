@@ -4,4 +4,4 @@
 
 В данном репозитории хранятся:
 
-- Руководство пользователя **WordPulse**
+- [Руководство пользователя **WordPulse**](https://github.com/mts-ai/wordpulse/blob/main/WP_user_guide_ru.md)
