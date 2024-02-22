@@ -22,7 +22,7 @@
 
 Веб-клиент анализирует загруженные логи и отображает все сессии клиентов на вкладке **Сессии**.
 
-![](./pictures/1.2.Sessions/1_Sessions.png)
+![](https://github.com/mts-ai/wordpulse/blob/main/pictures/1.2.Sessions/1_Sessions.png)
 
 На карточке каждой сессии доступны:
 
