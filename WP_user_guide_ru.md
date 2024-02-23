@@ -22,7 +22,7 @@
 
 Веб-клиент анализирует загруженные логи и отображает все сессии клиентов на вкладке **Сессии**.
 
-![](https://github.com/mts-ai/wordpulse/blob/main/pictures/1.2.Sessions/1_Sessions.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/1.2.Sessions/1_Sessions.png)
 
 На карточке каждой сессии доступны:
 
@@ -37,13 +37,13 @@
 
 Возле каждой реплики клиента, оператора / бота находится иконка-смайлик, которая показывает тональность реплики. Расчет тональности происходит по голосу и по тексту. Если тональность сообщений клиента изменяет свой характер (например, переходит с позитивного на нейтральный или в негативный) вне зависимости от наличия реплик оператора / бота, то рядом с сообщением отобразится точка перелома в виде иконки-стрелки.
 
-![](./pictures/1.2.Sessions/13_Bad_dialogue_tone.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/1.2.Sessions/13_Bad_dialogue_tone.png)
 
 #### Аналитика по NPS
 
 На вкладке **Сессии** пользователь может просматривать метрики удовлетворенности клиентским сервисом, например, tNPS (транзакционный NPS) - оценку конкретного опыта использования сервиса, услуги, товара.
 
-![](./pictures/1.2.Sessions/15_Net_sentiment.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/1.2.Sessions/15_Net_sentiment.png)
 
 ### Применение фильтров
 
@@ -55,7 +55,7 @@
 - по тематике, параметрам сессии,
 - количеству реплик участников сессии.
 
-![](./pictures/1.3.Filter/2_Sidebar.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/1.3.Filter/2_Sidebar.png)
 
 Чтобы каждый раз заново не выбирать нужные параметры для фильтрации, можно создать набор наиболее часто используемых фильтров (сет фильтров).
 
@@ -63,13 +63,13 @@
 
 С помощью многоуровневых фильтров можно формировать выборки сессий с несколькими уровнями детализации и просматривать статистику по ним.
 
-![](./pictures/1.4.Request/1.Sidebar_requests.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/1.4.Request/1.Sidebar_requests.png)
 
 #### Сравнение фильтров
 
 Чтобы найти интересную для дальнейшего анализа лексику, можно воспользоваться сравнением многоуровневых фильтров.
 
-![](./pictures/1.4.Request/15_Matching_words.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/1.4.Request/15_Matching_words.png)
 
 В каждом фильтре отобразятся "Топ слов" или "Топ фраз", количество сессий, в которых эти слова встречаются, и процентное соотношение от общего числа сессий.
 
@@ -81,7 +81,7 @@
 
 Результаты анализа сессий можно посмотреть на вкладке **Метрики**.
 
-![](./pictures/2.Metric/4_Metrics.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/2.Metric/4_Metrics.png)
 
 Меню над графиком и боковая панель фильтров позволяет менять отображение графика под нужды пользователя.
 
@@ -91,7 +91,7 @@
 
 - **Дефолтная**: позволяет проанализировать сессии по различным параметрам (точный набор доступных метрик зависит от реализации продукта под конкретного заказчика);
 
-![](./pictures/2.Metric/5_Default.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/2.Metric/5_Default.png)
 
 - **Сентимент анализ**: анализирует сессии по тону общения, например:
   - **Net sentiment** - разница между сессиями с позитивным и негативным сентиментом,
@@ -99,18 +99,18 @@
 
 - **Семантический анализ**: используется для определения ключевых слов и фраз, а также частоты их появления в сессиях.
 
-![](./pictures/2.Metric/7_Semantic_words.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/2.Metric/7_Semantic_words.png)
 
 - **ABSA**: аспектно-ориентированный анализ настроений, позволяющий выделять:
   - **Аспекты**: сущности, отношение к которым оценивает участники сессии,
   - **Оценки**: слова или словосочетания, определяющие отношение к аспекту,
   - **Тональность аспектов**: качественная характеристика оценки аспекта (позитивный, негативный).
 
-![](./pictures/2.Metric/11.3_ToneABSA.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/2.Metric/11.3_ToneABSA.png)
 
 - **Голосовая**: позволяет проанализировать сессии с аудиозаписью по различным параметрам.
 
-![](./pictures/2.Metric/12_Voice_metric.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/2.Metric/12_Voice_metric.png)
 
 #### Экспорт графиков
 
@@ -120,7 +120,7 @@
 
 Дашборды служат для визуализации результатов аналитики с помощью различных метрик на одном экране. В каждый дашборд можно добавить до четырех графиков для анализа.
 
-![](./pictures/3.Dashboard/1_Dashboards.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/3.Dashboard/1_Dashboards.png)
 
 ## Настройки
 
@@ -128,28 +128,28 @@
 
 Скрипты описывают то, как будут анализироваться сессии для выполнения конкретной бизнес-задачи.
 
-![](./pictures/6.Script/1_Scripts_edit.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/6.Script/1_Scripts_edit.png)
 
 Скрипт состоит из **Входных условий** и **Правил**.
 
-![](./pictures/6.Script/2_New_script_window.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/6.Script/2_New_script_window.png)
 
 ### Словари
 
 Словари могут использоваться в фильтре поиска, а также при создании условий внутри скрипта, например, условия на содержание в сессии тех или иных элементов из словаря.  
 
-![](./pictures/4.Dict/1_Dictionary.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/4.Dict/1_Dictionary.png)
 
 Значения в словаре можно импортировать и экспортировать в формате CSV.
 
-![](./pictures/4.Dict/7_New_words_to_dict.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/4.Dict/7_New_words_to_dict.png)
 
 ### Теги
 
 Тег – сущность, в которой хранится дополнительная информация о сессии.
 
-![](./pictures/5.Tag/4_Two_tags.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/5.Tag/4_Two_tags.png)
 
 Тег может быть связан с сессией или с конкретными фразами внутри неё.
 
-![](./pictures/5.Tag/8_Tag-on-dialog.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/5.Tag/8_Tag-on-dialog.png)
