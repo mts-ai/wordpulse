@@ -41,9 +41,9 @@
 
 #### Аналитика по NPS
 
-На вкладке **Сессии** пользователь может просматривать метрики удовлетворенности клиентским сервисом, например, tNPS (транзакционный NPS) - оценку конкретного опыта использования сервиса, услуги, товара.
+На вкладке **Сессии** пользователь может просматривать метрики удовлетворенности клиентским сервисом, например, NPS - показатель приверженности потребителей товару или компании.
 
-![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/1.2.Sessions/15_Net_sentiment.png)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/1.2.Sessions/14_tNPS.png)
 
 ### Применение фильтров
 
@@ -153,3 +153,9 @@
 Тег может быть связан с сессией или с конкретными фразами внутри неё.
 
 ![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/5.Tag/8_Tag-on-dialog.png)
+
+## Администрирование
+
+В разделе Администрирования пользователь может управлять доступами других пользователей, группами, политиками и ролями.
+
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/7.Admin/1_Administration.png)
