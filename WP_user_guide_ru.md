@@ -153,7 +153,7 @@
 
 Скрипты служат для проверки диалогов с клиентами на основе ключевых слов, тематик диалога, данных клиентов или тональности разговора.
 
-![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/7.1_Script_new_script)
+![](https://raw.githubusercontent.com/mts-ai/wordpulse/main/pictures/7.1_Script_new_script.png)
 
 Скрипт состоит из следующих компонентов:
 
